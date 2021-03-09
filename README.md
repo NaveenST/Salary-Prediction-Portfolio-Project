@@ -1,1 +1,1 @@
-# salarypredictionportfolio
+# Salary Prediction Portfolio Project
