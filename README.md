@@ -25,10 +25,14 @@ I have performed the following steps to preprocess the data:
 
 # Expolratory Data Analysis (EDA)-
 1) Plotted few graphs to get the distributions of values
- jobType Distribution![image](https://user-images.githubusercontent.com/44300495/112863673-160e0600-9085-11eb-9a9d-e058bcb04a57.png)
- degree Distribution![image](https://user-images.githubusercontent.com/44300495/112863692-1b6b5080-9085-11eb-98c0-f9b998acdeb4.png)
- major Distribution![image](https://user-images.githubusercontent.com/44300495/112863708-20300480-9085-11eb-85f3-3da4c2a7240f.png)
- industry Distribution![image](https://user-images.githubusercontent.com/44300495/112863725-245c2200-9085-11eb-8c08-26dd75b4c855.png)
+
+ jobType Distribution ![image](https://user-images.githubusercontent.com/44300495/112863673-160e0600-9085-11eb-9a9d-e058bcb04a57.png)
+ degree Distribution ![image](https://user-images.githubusercontent.com/44300495/112863692-1b6b5080-9085-11eb-98c0-f9b998acdeb4.png)
+ major Distribution ![image](https://user-images.githubusercontent.com/44300495/112863708-20300480-9085-11eb-85f3-3da4c2a7240f.png)
+ industry Distribution ![image](https://user-images.githubusercontent.com/44300495/112863725-245c2200-9085-11eb-8c08-26dd75b4c855.png)
+ yearsExperience Distribution ![image](https://user-images.githubusercontent.com/44300495/112864190-97659880-9085-11eb-9032-26b94650e054.png)
+ milesFromMetropolis Distribution ![image](https://user-images.githubusercontent.com/44300495/112864246-a3e9f100-9085-11eb-9a6a-1df63eb5d8df.png)
+ salary Distribution ![image](https://user-images.githubusercontent.com/44300495/112864295-af3d1c80-9085-11eb-8115-f85d711c186d.png)
 
 
 
