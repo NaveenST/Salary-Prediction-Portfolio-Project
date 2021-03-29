@@ -7,12 +7,14 @@ This project deals with the predicting salaries of various job types, degree's, 
 # Data-
 
 We have collected 1,000,000 (1 Million) observations having attributes such as
+
 1) Job Type i.e job designations(valid values - CEO, CFO, CTO, etc)
 2) Degree (valid values - High School, Bachelores, Masters, Doctoral, etc)
 3) Major (valid values - Physics, Chemistry, Computer Science, Biology, Math, etc)
 4) Industry (valid values - Auto, Tech, Oil, Finance, etc)
 5) Years of Experience (valid values - 1,2,3,4, etc)
 6) Miles From the Metropolis i.e distance away from the nearest metropolis area (valid values - 1,2,3,4, etc)
+7) companyId (valid values - COMP01, COMP02, etc)
 
 
 # Data Preprocessing-
@@ -58,6 +60,13 @@ I have performed the following steps to preprocess the data:
 ![image](https://user-images.githubusercontent.com/44300495/112866586-f3c9b780-9087-11eb-82a0-b7cd7ff932f5.png)
 
   Above graph shows which feature variables plays important role in predicting the target variable
+  
+  
+6) Correlational Coefficients
+
+![image](https://user-images.githubusercontent.com/44300495/112866928-56bb4e80-9088-11eb-94df-c781a894ea41.png)
+
+  Above graph shows the correlational coefficients between the feature variables and the target variable
 
 
 
