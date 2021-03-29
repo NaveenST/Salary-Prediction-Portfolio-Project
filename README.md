@@ -64,7 +64,7 @@ I have performed the following steps to preprocess the data:
   
 6) Correlational Coefficients
 
-![image](https://user-images.githubusercontent.com/44300495/112866928-56bb4e80-9088-11eb-94df-c781a894ea41.png)
+![image](https://user-images.githubusercontent.com/44300495/112893144-45823a00-90a8-11eb-9187-c862b84b4fdb.png)
 
   Above graph shows the correlational coefficients between the feature variables and the target variable
 
