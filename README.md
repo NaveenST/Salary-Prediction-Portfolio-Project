@@ -25,10 +25,12 @@ I have performed the following steps to preprocess the data:
 
 # Expolratory Data Analysis (EDA)-
 1) Plotted few graphs to get the distributions of values - the below graphs shows the distribution of values in the feature variables for the training dataset
+
 ![image](https://user-images.githubusercontent.com/44300495/112864529-e3184200-9085-11eb-9c96-8890db4121bd.png)
 
 
 2) Plotted few Box Plots to understand the outliers and pattern of data points for each cateogrical variables
+
 ![image](https://user-images.githubusercontent.com/44300495/112865045-66399800-9086-11eb-836e-a6c5bc01dbdb.png)
 
 
