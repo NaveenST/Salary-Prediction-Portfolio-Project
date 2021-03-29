@@ -34,6 +34,19 @@ I have performed the following steps to preprocess the data:
 ![image](https://user-images.githubusercontent.com/44300495/112865045-66399800-9086-11eb-836e-a6c5bc01dbdb.png)
 
 
+3) Correlation between numerical feature variables v/s target variable
+
+![image](https://user-images.githubusercontent.com/44300495/112865667-fa0b6400-9086-11eb-8fb3-ac92e1895854.png)
+
+As the experience increases the salary also increases signifying the positve correlation between these two variables
+
+
+![image](https://user-images.githubusercontent.com/44300495/112865788-1c9d7d00-9087-11eb-9804-4b74699fa80c.png)
+
+As the distance from the metropolis area increases the salary decreases signifying the negative correlation between these two variables
+
+
+
 
 
 
