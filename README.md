@@ -61,14 +61,14 @@ Hence the first step for me was
 
 ![image](https://user-images.githubusercontent.com/44300495/112866586-f3c9b780-9087-11eb-82a0-b7cd7ff932f5.png)
 
-  Above graph shows which feature variables plays important role in predicting the target variable
+  Above graph shows which feature variables plays important role in predicting the target variable, clearly companyId feature has the least impact on the target varible and can   be eliminated in model development. Remaining variables does have significant impact on the target variable, be it positive or negative.
   
   
 6) Correlational Coefficients for all the feature variables wrt target variable
 
 ![image](https://user-images.githubusercontent.com/44300495/112893144-45823a00-90a8-11eb-9187-c862b84b4fdb.png)
 
-  Above graph shows the correlational coefficients between the feature variables and the target variable
+  Above graph shows the correlational coefficients between the feature variables and the target variable. This graph as well confirms that companyId has least impact on salary     and jobType having the highest impact with other features as well having a significant impact on the salary variable.
 
 
 # Modeling-
