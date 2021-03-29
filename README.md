@@ -38,19 +38,27 @@ I have performed the following steps to preprocess the data:
 
 ![image](https://user-images.githubusercontent.com/44300495/112865667-fa0b6400-9086-11eb-8fb3-ac92e1895854.png)
 
-As the experience increases the salary also increases signifying the positve correlation between these two variables
+   As the experience increases the salary also increases signifying the positve correlation between these two variables
 
 
 ![image](https://user-images.githubusercontent.com/44300495/112865788-1c9d7d00-9087-11eb-9804-4b74699fa80c.png)
 
-As the distance from the metropolis area increases the salary decreases signifying the negative correlation between these two variables
+   As the distance from the metropolis area increases the salary decreases signifying the negative correlation between these two variables
 
 
 4) Performed ANOVA testing on the categorical feature variables v/s target variable to find the correlation between them
 
 ![image](https://user-images.githubusercontent.com/44300495/112866216-8b7ad600-9087-11eb-9f0b-f95e3a593d40.png)
 
-The above graph showcases which categorical variable has what amount of impact on the target variable
+   The above graph showcases which feature variable has what amount of impact on the target variable
+
+
+5) Performed Lasso Regression for feature selection
+
+![image](https://user-images.githubusercontent.com/44300495/112866586-f3c9b780-9087-11eb-82a0-b7cd7ff932f5.png)
+
+  Above graph shows which feature variables plays important role in predicting the target variable
+
 
 
 
