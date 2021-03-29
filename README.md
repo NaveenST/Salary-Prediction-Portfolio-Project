@@ -46,6 +46,13 @@ As the experience increases the salary also increases signifying the positve cor
 As the distance from the metropolis area increases the salary decreases signifying the negative correlation between these two variables
 
 
+4) Performed ANOVA testing on the categorical feature variables v/s target variable to find the correlation between them
+
+![image](https://user-images.githubusercontent.com/44300495/112866216-8b7ad600-9087-11eb-9f0b-f95e3a593d40.png)
+
+The above graph showcases which categorical variable has what amount of impact on the target variable
+
+
 
 
 
