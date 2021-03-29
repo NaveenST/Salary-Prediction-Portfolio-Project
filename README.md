@@ -25,10 +25,11 @@ I have performed the following steps to preprocess the data:
 
 # Expolratory Data Analysis (EDA)-
 1) Plotted few graphs to get the distributions of values
-![image](https://user-images.githubusercontent.com/44300495/112863293-b57ec900-9084-11eb-9619-14d152ccfdcb.png)
-![image](https://user-images.githubusercontent.com/44300495/112863485-e828c180-9084-11eb-9edc-744d0cc54026.png)
-![image](https://user-images.githubusercontent.com/44300495/112863544-f676dd80-9084-11eb-9d66-3779f1891009.png)
-![image](https://user-images.githubusercontent.com/44300495/112863571-fbd42800-9084-11eb-92eb-da8a04da05d8.png)
+![image](https://user-images.githubusercontent.com/44300495/112863673-160e0600-9085-11eb-9a9d-e058bcb04a57.png)
+![image](https://user-images.githubusercontent.com/44300495/112863692-1b6b5080-9085-11eb-98c0-f9b998acdeb4.png)
+![image](https://user-images.githubusercontent.com/44300495/112863708-20300480-9085-11eb-85f3-3da4c2a7240f.png)
+![image](https://user-images.githubusercontent.com/44300495/112863725-245c2200-9085-11eb-8c08-26dd75b4c855.png)
+
 
 
 
