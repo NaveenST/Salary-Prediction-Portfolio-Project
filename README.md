@@ -28,12 +28,12 @@ Hence the first step for me was
 
 
 # Expolratory Data Analysis (EDA)-
-1) Plotted few graphs to get the distributions of values - the below graphs shows the distribution of values in the feature variables for the training dataset
+1) Plotted few graphs to get the distributions of values - the below graph is an example which shows the distribution of jobType
 
 ![image](https://user-images.githubusercontent.com/44300495/112864529-e3184200-9085-11eb-9c96-8890db4121bd.png)
 
 
-2) Plotted few Box Plots to understand the outliers and pattern of data points for each cateogrical variables
+2) Plotted Box Plots to understand the outliers and pattern of data points for each cateogrical variables below is an example for jobType
 
 ![image](https://user-images.githubusercontent.com/44300495/112865045-66399800-9086-11eb-836e-a6c5bc01dbdb.png)
 
@@ -64,7 +64,7 @@ Hence the first step for me was
   Above graph shows which feature variables plays important role in predicting the target variable
   
   
-6) Correlational Coefficients
+6) Correlational Coefficients for all the feature variables wrt target variable
 
 ![image](https://user-images.githubusercontent.com/44300495/112893144-45823a00-90a8-11eb-9187-c862b84b4fdb.png)
 
