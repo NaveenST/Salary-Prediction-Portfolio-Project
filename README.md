@@ -69,6 +69,35 @@ I have performed the following steps to preprocess the data:
   Above graph shows the correlational coefficients between the feature variables and the target variable
 
 
+# Modeling-
+
+ In order to develop a model, we first need to build a baseline model and calculate its MSE. I have built a baseline model which has MSE of 963.92 for jobType. Considering this model as baseline, my goal is to build a model with an MSE less than 360 and with the highest r_sqaured value. I have opted to choose Linear Regression, Random Forest Regression and Gradient Boosting Regression to build my salary prediction model and to choose the best among them after evaluating each model with cross_validation of 5 fold split.
+
+ I have trained and tested each of the above model with train and test data split of 75% and 25% and considering feature variables such as jobType, major, degree, industry, yearsExperience and milesFromMetropolis to predict the salary(target variable). Feature selection has been inspired by the correlational heatmap and feature selection from Lasso Regression.
+ 
+ ![image](https://user-images.githubusercontent.com/44300495/112894659-21275d00-90aa-11eb-968a-906fc22d89d6.png)
+
+
+  From the above matrix, we can confirm that the Gradient Boosting Regression is the best model with MSE less than 360
+  
+  Below graph shows the model performance of actual v/s predicted values
+  
+  ![image](https://user-images.githubusercontent.com/44300495/112895131-baef0a00-90aa-11eb-97bd-3167d1d554de.png)
+  
+  
+  Feature Importance- The Gradient Boosting Regression model considered the following feature variables as important in predicted the salaries
+  
+  ![image](https://user-images.githubusercontent.com/44300495/112895352-03a6c300-90ab-11eb-880d-7bbe15f38fde.png)
+  
+  
+  # Conclusion-
+  
+   Gradient Boosting Regression model outperformed all the other models that was used in predicting the salary in both the MSE and R_Sqaured values.
+
+
+
+
+
 
 
 
