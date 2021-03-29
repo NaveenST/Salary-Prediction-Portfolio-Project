@@ -14,7 +14,7 @@ We have collected 1,000,000 (1 Million) observations having attributes such as
 4) Industry (valid values - Auto, Tech, Oil, Finance, etc)
 5) Years of Experience (valid values - 1,2,3,4, etc)
 6) Miles From the Metropolis i.e distance away from the nearest metropolis area (valid values - 1,2,3,4, etc)
-7) companyId (valid values - COMP01, COMP02, etc)
+7) Company ID (valid values - COMP01, COMP02, etc)
 
 
 # Data Preprocessing-
