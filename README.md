@@ -24,7 +24,7 @@ I have performed the following steps to preprocess the data:
 
 
 # Expolratory Data Analysis (EDA)-
-1) Plotted few graphs to get the distributions of values
+1) Plotted few graphs to get the distributions of values - the below graphs shows the distribution of values in the feature variables for the training dataset
 ![image](https://user-images.githubusercontent.com/44300495/112864529-e3184200-9085-11eb-9c96-8890db4121bd.png)
 ![image](https://user-images.githubusercontent.com/44300495/112864622-faefc600-9085-11eb-9df9-8e0da9628365.png)
 ![image](https://user-images.githubusercontent.com/44300495/112864653-04792e00-9086-11eb-8eb0-8c92585e338e.png)
@@ -32,6 +32,13 @@ I have performed the following steps to preprocess the data:
 ![image](https://user-images.githubusercontent.com/44300495/112864190-97659880-9085-11eb-9032-26b94650e054.png)
 ![image](https://user-images.githubusercontent.com/44300495/112864246-a3e9f100-9085-11eb-9a6a-1df63eb5d8df.png)
 ![image](https://user-images.githubusercontent.com/44300495/112864295-af3d1c80-9085-11eb-8115-f85d711c186d.png)
+
+2) Plotted few Box Plots to understand the outliers and pattern of data points for each cateogrical variables
+![image](https://user-images.githubusercontent.com/44300495/112865045-66399800-9086-11eb-836e-a6c5bc01dbdb.png)
+![image](https://user-images.githubusercontent.com/44300495/112865077-6c2f7900-9086-11eb-9487-6a268937aaed.png)
+![image](https://user-images.githubusercontent.com/44300495/112865101-70f42d00-9086-11eb-8e5a-3326138c1785.png)
+![image](https://user-images.githubusercontent.com/44300495/112865123-75b8e100-9086-11eb-9cfd-8cfa9e251204.png)
+![image](https://user-images.githubusercontent.com/44300495/112865134-79e4fe80-9086-11eb-8723-38c73b285fc7.png)
 
 
 
