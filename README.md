@@ -94,7 +94,7 @@ Hence the first step for me was
   
   # Conclusion-
   
-   Gradient Boosting Regression model outperformed all the other models that was used in predicting the salary in both the MSE and R_Sqaured values, with an MSE < 360 which was our target initially
+   Gradient Boosting Regression model outperformed all the other models that was used in predicting the salary in both the MSE and R_Sqaured values, with an MSE < 360 which was our target.
 
 
 
